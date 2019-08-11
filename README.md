@@ -61,10 +61,9 @@ linking to github?
 -so when you do create the repository on github, you will have the option to have a readme, if you do this and then you try to push wihotu one in your reposiroty it will give an error due to differences so don't do this and have to remove the remote
 
 git remote rm 'remote name'
--removes the remote in case it changes or you fucked up
--
+-removes the remote in case it changes or I mess up
 
--
+don't forget to add the comment after the git commit -m to say what you changed
 
 
 
