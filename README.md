@@ -66,4 +66,12 @@ git remote rm 'remote name'
 don't forget to add the comment after the git commit -m to say what you changed
 
 
+git clone
+-'git clone 'url' pulls the entire folder of a repository into your desktop or server or whatever
+-this will create a folder with it
+-works as long as public
+
+git pull
+-if someone makes a change then it takes anything that is different between your repository and
+the one you are pulling from
 
