@@ -74,4 +74,6 @@ git clone
 git pull
 -if someone makes a change then it takes anything that is different between your repository and
 the one you are pulling from
+-before you do the next command command, you have to make sure that you have already done git init as it is needed in order to actually pull from the repository
+-the command for this one would be 'git pull 'url'
 
